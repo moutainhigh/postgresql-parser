@@ -1,0 +1,20 @@
+
+„squid:S1192"jDefine a constant instead of duplicating this literal "Can not insert, the exception message is:" 3 times.(ğ–‹úüÿÿÿÿ
+ksquid:S1192"VDefine a constant instead of duplicating this literal "[JDBC Exception] -->" 11 times.(óÑ­
+Fsquid:S1444",Make this "public static logger" field final(¥¡û†üÿÿÿÿ
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Óö¯Ã
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é½Ğ…úÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»‚ãÒøÿÿÿÿ
+=squid:S1125"(Remove the literal "true" boolean value.(ÂÁ‡à
+=squid:S1125"(Remove the literal "true" boolean value.(ÂÁ‡à
+Csquid:S1125")Remove the literal "false" boolean value.(í³ëŠùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"RMake logger a static final constant or non-public and provide accessors if needed.(¥¡û†üÿÿÿÿ
+Dsquid:S1481"/Remove this unused "dataResult" local variable.(ÉşµÈ
+hsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 120 to the 15 allowed.(Ğ™Ò½
+jsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ
+^squid:UselessImportCheck"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´
+Ksquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å

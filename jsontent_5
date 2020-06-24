@@ -1,0 +1,5 @@
+{"data":{"age":"78","id":"1","sex":"男"},"tablename":"ws_test"}
+{"data":{"age":"12","id":"2","province":"辽宁省","sex":"男"},"tablename":"ws_test"}
+{"data":{"age":"23","id":"3","sex":"女","province":"辽宁省","qq":"10896510257","wx":"2yQ246Z"},"tablename":"ws_test"}
+{"data":{"age":"34","id":"4","sex":"男"},"tablename":"ws_test"}
+{"data":{"age":"45","id":"5","sex":"女","qq":"399878686"},"tablename":"ws_test"}

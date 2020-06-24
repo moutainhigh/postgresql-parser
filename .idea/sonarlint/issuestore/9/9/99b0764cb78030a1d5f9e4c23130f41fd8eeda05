@@ -1,0 +1,11 @@
+
+<squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+Asquid:S3010"'Remove this assignment of "properties".(áì”´þÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯¢éš
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éÞ§é
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÔÁÁõ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ùãñúÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¸Ô¿
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Éð®Î
+Usquid:S1854";Remove this useless assignment to local variable "records".(•Œîéøÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â†µéúÿÿÿÿ

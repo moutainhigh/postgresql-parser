@@ -1,0 +1,5 @@
+
+ssquid:S1450"YRemove the "properties" field and declare it as a local variable in the relevant methods.(§óâèþÿÿÿÿ
+ssquid:S1450"YRemove the "threadPool" field and declare it as a local variable in the relevant methods.(Ôž‡¢ùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Åýçùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡«ðÂ

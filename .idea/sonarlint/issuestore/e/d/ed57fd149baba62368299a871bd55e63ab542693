@@ -1,0 +1,11 @@
+
+Qsquid:S2629"7Use the built-in formatting to construct this argument.(´èÙ•øÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôò‹§ýÿÿÿÿ
+qsquid:S1450"WRemove the "producer" field and declare it as a local variable in the relevant methods.(Ø±¿Øüÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ïè²ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êÛÒÐýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÌ—ºûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½‘Ñ³
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

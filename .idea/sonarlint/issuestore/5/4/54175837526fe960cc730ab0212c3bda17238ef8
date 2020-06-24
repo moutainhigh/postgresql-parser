@@ -1,0 +1,25 @@
+
+Nsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Î»Ïâüÿÿÿÿ
+<squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+;squid:S3010"'Remove this assignment of "properties".(îéå%
+csquid:S1192"IDefine a constant instead of duplicating this literal "jcontent" 4 times.(Ïõƒ”ûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸÂ˜şúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸÂ˜şúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ùãñúÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¸Ô¿
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÑõÕùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎüáÎûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±˜…Šıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒîÁ¢ûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘æô÷
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±˜…Šıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒîÁ¢ûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞÛ—Õÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôÚÃİûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñö˜İ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(µáÒıÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "records".(•Œîéøÿÿÿÿ
+^squid:UselessImportCheck"<Remove this unused import 'org.apache.commons.io.FileUtils'.(À¿Ù´
+Wsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+Ksquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å
+dsquid:UselessImportCheck"=Remove this unused import 'com.fiberhome.jdbc.JdbcTemplate2'.(÷ğûÿÿÿÿÿ
